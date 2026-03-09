@@ -1,4 +1,4 @@
-# Hey, I'm Abhijith 👋
+# Hey, I'm Abhijith :)
 
 An 18-year-old developer from Kerala, India. I build things, break things, and occasionally fix other people's things too.
 
