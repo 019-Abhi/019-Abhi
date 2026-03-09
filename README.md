@@ -23,7 +23,8 @@ Other PRs:
 - Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
 
 Notable PRs:
-[Oppia](https://github.com/oppia/oppia/pull/25001), [Oppia](https://github.com/oppia/oppia/pull/25150)
+→ (https://github.com/oppia/oppia/pull/25001)
+→ (https://github.com/oppia/oppia/pull/25150)
 
 ### 🏥 HealthPro — Privacy-first Medical Records
 A decentralized medical records app using Midnight (Web3) so patients fully own their health data. Built at an MLH Hackathon called 'Midnight'
