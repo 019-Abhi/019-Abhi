@@ -8,14 +8,17 @@ An 18-year-old developer from Kerala, India. I build things, break things, and o
 - Went on a fully funded housing-internship program in San Francisco as part of a Hack Club event
 - First year BSc Computer Applications student in Sacred Heart College, Kerala, India
 
-## My work in detail
+## My work in detail 
 
-### 🤖 gemini-cli — Regex-based Skill Matching
+###  Open Source Contributions:
+**Gemin-cli:**
 Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex. Touches `client.ts`, `skillLoader.ts`, and `skillManager.ts`.
 → [PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634) · [PR #17478](https://github.com/google-gemini/gemini-cli/pull/17478) · [PR #18099](https://github.com/google-gemini/gemini-cli/pull/18099)
 
 Some PRs:
 Contributing to **[gemini-cli](https://github.com/google-gemini/gemini-cli)** — added regex-based automatic skill activation ([PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634))
+
+**Oppia:**
 - Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
 
 ### 🏥 HealthPro — Privacy-first Medical Records
