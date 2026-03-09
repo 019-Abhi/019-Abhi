@@ -20,17 +20,17 @@ Other PRs:
 [PR #17478](https://github.com/google-gemini/gemini-cli/pull/17478) 
 
 **Oppia:**
-- Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
+Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
 
 Notable PRs:
-→ (https://github.com/oppia/oppia/pull/25001)
-→ (https://github.com/oppia/oppia/pull/25150)
+(https://github.com/oppia/oppia/pull/25001)
+(https://github.com/oppia/oppia/pull/25150)
 
-### 🏥 HealthPro — Privacy-first Medical Records
+### HealthPro — Privacy-first Medical Records
 A decentralized medical records app using Midnight (Web3) so patients fully own their health data. Built at an MLH Hackathon called 'Midnight'
 → [github.com/Private-Health-Record](https://github.com/Private-Health-Record)
 
-### 🌀 The Hidden Labyrinth
+### The Hidden Labyrinth
 A web app that generates unique, randomized maze rooms on every run. Built with React, Firebase, and SQL.
 → [Live](https://thehiddenlabyrinth.vercel.app/game) · [Repo](https://github.com/019-Abhi/Labyrinth/)
 
