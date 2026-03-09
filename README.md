@@ -11,18 +11,22 @@ An 18-year-old developer from Kerala, India. I build things, break things, and o
 ## My work in detail 
 
 ###  Open Source Contributions:
-**Gemin-cli:**
-Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex. Touches `client.ts`, `skillLoader.ts`, and `skillManager.ts`.
-→ [PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634) · [PR #17478](https://github.com/google-gemini/gemini-cli/pull/17478) · [PR #18099](https://github.com/google-gemini/gemini-cli/pull/18099)
+**[gemini-cli](https://github.com/google-gemini/gemini-cli)**
+Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex.
+→ [PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634)
 
-Some PRs:
-Contributing to **[gemini-cli](https://github.com/google-gemini/gemini-cli)** — added regex-based automatic skill activation ([PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634))
+Other PRs:
+[PR #18099](https://github.com/google-gemini/gemini-cli/pull/18099)
+[PR #17478](https://github.com/google-gemini/gemini-cli/pull/17478) 
 
 **Oppia:**
 - Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
 
+Notable PRs:
+[Oppia](https://github.com/oppia/oppia/pull/25001), [Oppia](https://github.com/oppia/oppia/pull/25150)
+
 ### 🏥 HealthPro — Privacy-first Medical Records
-A decentralized medical records app using Midnight (Web3) so patients fully own their health data. Built at an MLH Hackathon in San Francisco.
+A decentralized medical records app using Midnight (Web3) so patients fully own their health data. Built at an MLH Hackathon called 'Midnight'
 → [github.com/Private-Health-Record](https://github.com/Private-Health-Record)
 
 ### 🌀 The Hidden Labyrinth
