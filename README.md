@@ -13,7 +13,7 @@ An 18-year-old developer from Kerala, India. I build things, break things, and o
 ###  Open Source Contributions:
 **[gemini-cli](https://github.com/google-gemini/gemini-cli):**
 Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex.
-→ [PR #19634](https://github.com/google-gemini/gemini-cli/pull/19634)
+→ [PR #22763](https://github.com/google-gemini/gemini-cli/pull/22763/)
 
 Other PRs:
 [PR #18099](https://github.com/google-gemini/gemini-cli/pull/18099)
