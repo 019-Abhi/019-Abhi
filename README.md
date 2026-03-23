@@ -10,6 +10,10 @@ An 18-year-old developer from Kerala, India. I build things, break things, and o
 
 ## My work in detail 
 
+### Hack Club - Neighborhood
+
+In June 2025, I was awarded a fully-funded internship-cum-housing-trip through Hack Club’s Neighborhood program. Completed 100 hours of self-driven coding, earning a 2-week  stay in San Francisco to collaborate and build apps  on-site with fellow teen developers, all while completing 40 hours of coding per week while  at San Francisco.
+
 ###  Open Source Contributions:
 **[gemini-cli](https://github.com/google-gemini/gemini-cli):**
 Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex.
