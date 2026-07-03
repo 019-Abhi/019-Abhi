@@ -1,52 +1,66 @@
 # Hey, I'm Abhijith :)
 
-An 18-year-old developer from Kerala, India. I build things, break things, and occasionally fix other people's things too.
+A 19-year-old developer from Kerala, India. I build things, break things, and occasionally fix other people's things too.
 
-## My work in general
+## About Me
+- B.Sc. Computer Science @ Sacred Heart College, Kerala (GPA: 3.81)
+- Invitee to Hack Club Neighborhood 2025 in San Francisco
+- Open Source Contributor to Google Gemini CLI and Oppia
+- Interested in software engineering, AI developer tools, and full-stack development
 
-- Open Source Contributor and a Full Stack Developer
-- Went on a fully funded housing-internship program in San Francisco as part of a Hack Club event
-- First year BSc Computer Applications student in Sacred Heart College, Kerala, India
+# Hack Club San Francisco, United States Invitee to Hack Club Neighborhood June 2025 - July 2025
 
-## My work in detail 
+Selected for Hack Club Neighborhood in San Francisco by building a procedurally generated browser game in React with on-demand room generation, randomised door layouts, and a unique exit per run, completing 130 hours of project work. 
 
-### Hack Club - Neighborhood
+# Open Source Contributions
 
-In June 2025, I was awarded a fully-funded internship-cum-housing-trip through Hack Club’s Neighborhood program. Completed 100 hours of self-driven coding, earning a 2-week  stay in San Francisco to collaborate and build apps  on-site with fellow teen developers, all while completing 40 hours of coding per week while  at San Francisco.
+## Google Gemini CLI
 
-###  Open Source Contributions:
-**[gemini-cli](https://github.com/google-gemini/gemini-cli):**
-Added `skillMatcher.ts` to google-gemini/gemini-cli, enabling the CLI to automatically activate agent skills based on user prompt patterns using pre-compiled regex.
-→ [PR #22763](https://github.com/google-gemini/gemini-cli/pull/22763/)
+Contributed multiple improvements to Google's Gemini CLI, including:
 
-Other PRs:
-[PR #18099](https://github.com/google-gemini/gemini-cli/pull/18099)
-[PR #17478](https://github.com/google-gemini/gemini-cli/pull/17478) 
-
-**Oppia:**
-Contributing to **[Oppia](https://github.com/oppia/oppia)** — fixing UI bugs and improving the learner experience
+Fixed a runtime crash affecting the VS Code extension.
+Improved GitHub repository setup by validating fork ownership, preventing cloud-environment failures.
+Added automatic skill activation through regex-based prompt matching with precompiled patterns for improved performance.
 
 Notable PRs:
-(https://github.com/oppia/oppia/pull/25001)
-(https://github.com/oppia/oppia/pull/25253)
 
-### HealthPro — Privacy-first Medical Records
-A decentralized medical records app using Midnight (Web3) so patients fully own their health data. Built at an MLH Hackathon called 'Midnight'
-→ [github.com/Private-Health-Record](https://github.com/Private-Health-Record)
+https://github.com/google-gemini/gemini-cli/pull/22763
+https://github.com/google-gemini/gemini-cli/pull/18099
+https://github.com/google-gemini/gemini-cli/pull/17478
 
-### The Hidden Labyrinth
-A web app that generates unique, randomized maze rooms on every run. Built with React, Firebase, and SQL.
-→ [Live](https://thehiddenlabyrinth.vercel.app/game) · [Repo](https://github.com/019-Abhi/Labyrinth/)
+## Oppia
 
----
+Contributed UI improvements to Oppia's Angular frontend, including:
 
-## Stack
+Fixed contributor tooltip rendering so all contributor names remain visible and clickable.
+Added a responsive search-panel toggle for the blog homepage, improving usability while maintaining test coverage.
 
-```
-Languages   Python · JavaScript · TypeScript · C++ · Java · Kotlin · SQL
-Frontend    React · React Native · HTML · CSS
-Backend     Flask · Firebase · Web3/Midnight
-Tools       Git · Node.js
-```
+Notable PRs:
 
----
+https://github.com/oppia/oppia/pull/25001
+https://github.com/oppia/oppia/pull/25253
+
+# Projects
+## Gringotts — Expense Calculator
+Native Android expense tracker built with Kotlin.
+
+Reads SMS transaction messages automatically.
+Extracts merchants and amounts using regex.
+Categorises spending into groups such as food, bills, shopping, and more.
+
+Repository:
+https://github.com/019-Abhi/Gringotts-Expense-Calculator
+
+## HealthPro — Privacy-Preserving Medical Records
+
+Built during the MLH Midnight Hackathon.
+
+A decentralized medical records platform where patients control encrypted health records stored on the Midnight blockchain, ensuring data remains private unless explicit access is granted.
+
+Repository:
+https://github.com/Private-Health-Record
+
+# Tech Stack
+Languages   Kotlin · JavaScript · TypeScript · Python · C++ · SQL · HTML · CSS
+Frameworks  React · Flask
+Tools       Git
