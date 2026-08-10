@@ -41,6 +41,13 @@ https://github.com/oppia/oppia/pull/25001
 https://github.com/oppia/oppia/pull/25253
 
 # Projects
+
+## ReplyForge – AI-Powered X Reply Assistant | Node.js, Playwright, Ollama, JavaScript
+Built an AI-powered assistant that generates context-aware replies for X posts using Ollama by developing a
+Playwright-based tweet scraping pipeline that collects tweet data and performance from the feed, which uses a
+structured retrieval dataset of high-performing tweets and engagement metadata to improve response relevance and
+consistency.
+
 ## Gringotts — Expense Calculator
 Native Android expense tracker built with Kotlin.
 
