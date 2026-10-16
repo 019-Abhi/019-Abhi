@@ -3,7 +3,7 @@
 A 19-year-old developer from Kerala, India. I build things, break things, and occasionally fix other people's things too.
 
 ## About Me
-- B.Sc. Computer Science @ Sacred Heart College, Kerala (GPA: 3.81)
+- B.Sc. Computer Science @ Sacred Heart College, Kerala (GPA: 9.62/10)
 - Invitee to Hack Club Neighborhood 2025 in San Francisco
 - Open Source Contributor to Google Gemini CLI and Oppia
 - Interested in software engineering, AI developer tools, and full-stack development
